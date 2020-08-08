@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ticker/static/css/main.416a75d9.chunk.css",
+    "main.js": "/Ticker/static/js/main.3e249fb8.chunk.js",
+    "main.js.map": "/Ticker/static/js/main.3e249fb8.chunk.js.map",
+    "runtime-main.js": "/Ticker/static/js/runtime-main.97116166.js",
+    "runtime-main.js.map": "/Ticker/static/js/runtime-main.97116166.js.map",
+    "static/js/2.58814ecf.chunk.js": "/Ticker/static/js/2.58814ecf.chunk.js",
+    "static/js/2.58814ecf.chunk.js.map": "/Ticker/static/js/2.58814ecf.chunk.js.map",
+    "index.html": "/Ticker/index.html",
+    "precache-manifest.701e45892f131c1c9d293d6b52f6cd67.js": "/Ticker/precache-manifest.701e45892f131c1c9d293d6b52f6cd67.js",
+    "service-worker.js": "/Ticker/service-worker.js",
+    "static/css/main.416a75d9.chunk.css.map": "/Ticker/static/css/main.416a75d9.chunk.css.map",
+    "static/js/2.58814ecf.chunk.js.LICENSE.txt": "/Ticker/static/js/2.58814ecf.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Ticker/static/media/1.c8730e0a.jpg",
+    "static/media/index.css": "/Ticker/static/media/post_bg.1d57288f.png",
+    "static/media/title.png": "/Ticker/static/media/title.59df1d90.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97116166.js",
+    "static/js/2.58814ecf.chunk.js",
+    "static/css/main.416a75d9.chunk.css",
+    "static/js/main.3e249fb8.chunk.js"
+  ]
+}
